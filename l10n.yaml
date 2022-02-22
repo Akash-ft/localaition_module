@@ -1,0 +1,7 @@
+
+#Input file and internationalize folder(the languages keys store in the file)
+arb-dir: lib/l10n
+#template file(defalut language).
+template-arb-file : app_en.arb
+#To change the language based on the request or device language(to generate the language key file to app_localization.dart.).
+output-localization-file : app_localizations.dart

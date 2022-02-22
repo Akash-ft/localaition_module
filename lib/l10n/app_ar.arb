@@ -1,0 +1,10 @@
+{
+"language":"عربى",
+"@language":{
+"description":"the current language"
+},
+"helloWorld":"مرحبا بالعالم!",
+"@helloWorld":{
+"description ":"programmer greeting"
+}
+}
